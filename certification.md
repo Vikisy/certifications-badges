@@ -9,7 +9,7 @@
 
 # 🎓 Other Achievements
 
-| Badge | Issuing Organization | Credential Link |
+| Badge | Issuing Organization | Badge Link |
 |-------|----------------------|------------------|
 | **MySQL Explorer** | Oracle University | <p align="center"> [View](https://mylearn.oracle.com/ou/learning-path/mysql-explorer/79674) </p> |
 | **Oracle Database Explorer** | Oracle University | <p align="center"> [View](https://mylearn.oracle.com/ou/learning-path/oracle-database-explorer/79873) </p> |
