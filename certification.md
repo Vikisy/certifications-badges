@@ -11,9 +11,9 @@
 
 | Badge | Issuing Organization | Badge Link |
 |-------|----------------------|------------------|
-| **MySQL Explorer** | Oracle University | <p align="center"> [View](https://mylearn.oracle.com/ou/learning-path/mysql-explorer/79674) </p> |
-| **Oracle Database Explorer** | Oracle University | <p align="center"> [View](https://mylearn.oracle.com/ou/learning-path/oracle-database-explorer/79873) </p> |
-| **Oracle SQL Explorer** | Oracle University | <p align="center"> [View](https://mylearn.oracle.com/ou/learning-path/oracle-sql-explorer/79918) </p> |
-| **AI for You: Training & Assessment** | Oracle University | <p align="center"> [View](https://mylearn.oracle.com/ou/learning-path/ai-for-you-training-and-assessment/152600) </p> |
+| **MySQL Explorer** | Oracle University | <p align="center"> [View](https://drive.google.com/file/d/1a8CkhqZIQtLY_C7TTvTHF1vv3IgBDK_G/view?usp=sharing) </p> |
+| **Oracle Database Explorer** | Oracle University | <p align="center"> [View](https://drive.google.com/file/d/1Y05ts4bYcVGIllBo2SLcHH6Fj9wdEEnL/view?usp=sharing) </p> |
+| **Oracle SQL Explorer** | Oracle University | <p align="center"> [View](https://drive.google.com/file/d/1p2aMGMayqx8wdPnj00JgABzVL7gT-R7C/view?usp=sharing) </p> |
+| **AI for You: Training & Assessment** | Oracle University | <p align="center"> [View](https://drive.google.com/file/d/1Ap97QcEIOHFxmJ6xNhDDLi1fgwUe191O/view?usp=sharing) </p> |
 
 > ✅ _Verifiable via Oracle MyLearn._
